@@ -1,0 +1,24 @@
+{
+  "images" : [
+    {
+      "size" : "72x72",
+      "foldername" : "mipmap-hdpi"
+    },
+    {
+      "size" : "48x48",
+      "foldername" : "mipmap-mdpi"
+    },
+    {
+      "size" : "96x96",
+      "foldername" : "mipmap-xhdpi"
+    },
+    {
+      "size" : "144x144",
+      "foldername" : "mipmap-xxhdpi"
+    },
+    {
+      "size" : "192x192",
+      "foldername" : "mipmap-xxxhdpi"
+    }
+  ]
+}
